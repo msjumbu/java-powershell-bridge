@@ -1,0 +1,5 @@
+C:\Users\senthil.kumar\Documents\Visual Studio 2008\Projects\Powershell\Powershell\bin\Release\Powershell.dll
+C:\Users\senthil.kumar\Documents\Visual Studio 2008\Projects\Powershell\Powershell\bin\Release\Powershell.pdb
+C:\Users\senthil.kumar\Documents\Visual Studio 2008\Projects\Powershell\Powershell\obj\Release\ResolveAssemblyReference.cache
+C:\Users\senthil.kumar\Documents\Visual Studio 2008\Projects\Powershell\Powershell\obj\Release\Powershell.dll
+C:\Users\senthil.kumar\Documents\Visual Studio 2008\Projects\Powershell\Powershell\obj\Release\Powershell.pdb
